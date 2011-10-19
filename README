@@ -8,6 +8,6 @@ report.py - the script that interfaces the MySQL database
 Consider this:
 parse.py - Model
 report.py - View
-python scripts - Controller
+python - Controller
 
 
