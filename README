@@ -1,1 +1,13 @@
 This is just some MySQL stub code I'm saving. Nothing fancy here.
+
+
+parse.py - the script that creates the MySQL table
+report.py - the script that interfaces the MySQL database
+
+
+Consider this:
+parse.py - Model
+report.py - View
+python scripts - Controller
+
+
